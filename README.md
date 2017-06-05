@@ -2,12 +2,12 @@
 
 #### Julia
 
-master@6b0d54e6cb4272c609489a05bf8404e89befab7e
+master@9a22471b8019693cedd0502fd3e4ae2b4c7e4bc9
 
 #### LLVM
 
-stable@7d2db0d796cbf6536e80af145e6f442bbfbb2747
+master@4efa61f12928015bad233274ffa2e60c918e9a10
 
 #### Polly
 
-master@b6ed950429306a5dd5b1844dfb140e5755f5839d
+master@6e3f4c74a8232d19a3c913060d3491bde3fd3963
