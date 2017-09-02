@@ -2,12 +2,12 @@
 
 #### Julia
 
-master@9a22471b8019693cedd0502fd3e4ae2b4c7e4bc9
+singam-sanjay/fix_for_llvm6@91c0b4759055aeb21af974d0231eed760b4dc119
 
 #### LLVM
 
-master@4efa61f12928015bad233274ffa2e60c918e9a10
+master@0087021b401a0d00129e6eed361acb7a8d174799
 
 #### Polly
 
-master@6e3f4c74a8232d19a3c913060d3491bde3fd3963
+master@258bde1e71fd1c45b8a8e9b552735c0ee44a7cce
